@@ -1,0 +1,14 @@
+C:\Users\rhali\source\repos\рустам1\рустам1\bin\Debug\net6.0\рустам1.exe
+C:\Users\rhali\source\repos\рустам1\рустам1\bin\Debug\net6.0\рустам1.deps.json
+C:\Users\rhali\source\repos\рустам1\рустам1\bin\Debug\net6.0\рустам1.runtimeconfig.json
+C:\Users\rhali\source\repos\рустам1\рустам1\bin\Debug\net6.0\рустам1.dll
+C:\Users\rhali\source\repos\рустам1\рустам1\bin\Debug\net6.0\рустам1.pdb
+C:\Users\rhali\source\repos\рустам1\рустам1\obj\Debug\net6.0\рустам1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhali\source\repos\рустам1\рустам1\obj\Debug\net6.0\рустам1.AssemblyInfoInputs.cache
+C:\Users\rhali\source\repos\рустам1\рустам1\obj\Debug\net6.0\рустам1.AssemblyInfo.cs
+C:\Users\rhali\source\repos\рустам1\рустам1\obj\Debug\net6.0\рустам1.csproj.CoreCompileInputs.cache
+C:\Users\rhali\source\repos\рустам1\рустам1\obj\Debug\net6.0\рустам1.dll
+C:\Users\rhali\source\repos\рустам1\рустам1\obj\Debug\net6.0\refint\рустам1.dll
+C:\Users\rhali\source\repos\рустам1\рустам1\obj\Debug\net6.0\рустам1.pdb
+C:\Users\rhali\source\repos\рустам1\рустам1\obj\Debug\net6.0\рустам1.genruntimeconfig.cache
+C:\Users\rhali\source\repos\рустам1\рустам1\obj\Debug\net6.0\ref\рустам1.dll
